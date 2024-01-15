@@ -16,8 +16,7 @@
 <br>
 ### ⇨  Cara Instal Tools
 ````
-git clone https://github.com/Fall-Xavier/zmbf
-````
+git clone https://github.com/ayamrembo/Sortir-cookies
 ls (L Kecil)
 python sortir.py
 ````
