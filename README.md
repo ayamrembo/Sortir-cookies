@@ -17,12 +17,12 @@
   </a>
 </div>
 <br>
-### ⇨  Install Script Di Termux
-'''
+### ⇨  Cara Instal Tools
+````
 $ git clone https://github.com/ayamrembo/Sortir-cookies/
 $ ls (L Kecil)
 $ python sortir.py
-'''
+````
 
 ### Format file.txt
 ID|PW|COOKIES
