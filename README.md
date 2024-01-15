@@ -3,13 +3,13 @@
   <a href="https://github.com/Fall-Xavier">
     <img alt="Python 3.11^" src="https://img.shields.io/badge/Python-3.11^-success.svg"/>
   </a>
-  <a href="https://github.com/Fall-Xavier">
+  <a href="https://github.com/ayamrembo">
     <img alt="Commit" src="https://img.shields.io/github/last-commit/Fall-Xavier/zmbf.svg"/>
   </a>
-   <a href="https://github.com/Fall-Xavier">
+   <a href="https://github.com/ayamrembo">
     <img alt="Repo Size" src="https://img.shields.io/github/repo-size/Fall-Xavier/zmbf.svg"/>
   </a>
-  <a href="https://github.com/Fall-Xavier">
+  <a href="https://ayamrembo">
     <img alt="Stars" src="https://img.shields.io/github/stars/Fall-Xavier/zmbf.svg"/>
   </a>
   <a href="https://github.com/ayamrembo">
