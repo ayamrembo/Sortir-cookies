@@ -9,11 +9,11 @@
 </div>
 <br>
 
-<img src="https://ibb.co/tQ1xYSC">
+<img src="https://i.ibb.co/hLTZ2k8/carbon-3.png">
 
-### ⇨  Format File.txt
+### ⇨  Isi Didalam File.txt
 ```
-ID|PW|COOKIES
+format ID|PW|COOKIES
 ```
 ### ⇨  Cara Instal Tools
 ```
