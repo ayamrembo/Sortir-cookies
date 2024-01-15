@@ -6,12 +6,6 @@
   <a href="https://github.com/ayamrembo">
     <img alt="Commit" src="https://img.shields.io/github/last-commit/Fall-Xavier/zmbf.svg"/>
   </a>
-  <a href="https://ayamrembo">
-    <img alt="Stars" src="https://img.shields.io/github/stars/Fall-Xavier/zmbf.svg"/>
-  </a>
-  <a href="https://github.com/ayamrembo">
-    <img alt="Fork" src="https://img.shields.io/github/forks/Fall-Xavier/zmbf.svg"/>
-  </a>
 </div>
 <br>
 ### ⇨  Cara Instal Tools
