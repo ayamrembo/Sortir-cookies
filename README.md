@@ -19,9 +19,10 @@
 <br>
 ### ⇨  Cara Instal Tools
 ````
-$ git clone https://github.com/ayamrembo/Sortir-cookies/
-$ ls (L Kecil)
-$ python sortir.py
+git clone https://github.com/Fall-Xavier/zmbf
+````
+ls (L Kecil)
+python sortir.py
 ````
 
 ### Format file.txt
