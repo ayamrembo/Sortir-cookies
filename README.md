@@ -9,8 +9,7 @@
 </div>
 <br>
 
-<img src="https://i.ibb.co/hLTZ2k8/carbon-3.png">
-
+<img src="https://i.ibb.co/TM8DZkt/Picsart-24-01-15-23-45-48-509.jpg">
 ### ⇨  Isi Didalam File.txt
 ```
 format ID|PW|COOKIES
