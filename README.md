@@ -9,11 +9,11 @@
 </div>
 <br>
 
-<p align="center">
-  <img width="100%" height="auto" src="https://ibb.co/tQ1xYSC">
-</p>
+<img src="https://ibb.co/tQ1xYSC">
 
 ### ⇨  Cara Instal Tools
-git clone https://github.com/ayamrembo/Sortir-cookies/
-ls 
-python sortir.py
+```
+$ git clone https://github.com/ayamrembo/Sortir-cookies
+$ cd Sortir-cookies
+$ python sortir.py
+```
