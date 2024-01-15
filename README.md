@@ -11,6 +11,10 @@
 
 <img src="https://ibb.co/tQ1xYSC">
 
+### ⇨  Isi Didalam File.txt
+```
+format ID|PW|COOKIES
+```
 ### ⇨  Cara Instal Tools
 ```
 $ git clone https://github.com/ayamrembo/Sortir-cookies
