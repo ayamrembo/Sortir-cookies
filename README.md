@@ -11,9 +11,9 @@
 
 <img src="https://ibb.co/tQ1xYSC">
 
-### ⇨  Isi Didalam File.txt
+### ⇨  Format File.txt
 ```
-format ID|PW|COOKIES
+ID|PW|COOKIES
 ```
 ### ⇨  Cara Instal Tools
 ```
